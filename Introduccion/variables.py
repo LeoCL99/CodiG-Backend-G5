@@ -1,1 +1,1 @@
-nombre="Eduardo"gitgiy
+nombre="Eduardo"

@@ -1,0 +1,4 @@
+#Evitamos subir el entorno
+entorno-flask/*
+entorno-flask
+entorno-flask/

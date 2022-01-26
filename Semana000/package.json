@@ -1,0 +1,35 @@
+{
+  "name": "minimarket",
+  "version": "1.0.0",
+  "description": "proyecto minimarket",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specifed\"&& exit 2",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoCL99/CodiG-Backend-G5.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "middlewares"
+  ],
+  "author": "\"Leoardo Condure Landa\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoCL99/CodiG-Backend-G5/issues"
+  },
+  "homepage": "https://github.com/LeoCL99/CodiG-Backend-G5#readme",
+  "devDependencies": {
+    "bcrypt": "^5.0.1",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}

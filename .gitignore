@@ -2,3 +2,7 @@
 entorno-flask/*
 entorno-flask
 entorno-flask/
+
+.env 
+
+node_modules/
